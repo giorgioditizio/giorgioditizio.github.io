@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>127.0.0.1/about/</loc>
+    <loc>https://giorgioditizio.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>127.0.0.1/contact/</loc>
+    <loc>https://giorgioditizio.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>127.0.0.1/resume/</loc>
+    <loc>https://giorgioditizio.github.io/resume/</loc>
   </url>
   
   <url>
-    <loc>127.0.0.1/</loc>
+    <loc>https://giorgioditizio.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>127.0.0.1/tags/</loc>
+    <loc>https://giorgioditizio.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
