@@ -4,6 +4,15 @@
   
   <url>
     <loc>https://giorgioditizio.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://giorgioditizio.github.io/contact/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://giorgioditizio.github.io/publications/publications/</loc>
     <priority>0</priority>
   </url>
   
@@ -13,12 +22,21 @@
   </url>
   
   <url>
-    <loc>https://giorgioditizio.github.io/resume/</loc>
+    <loc>https://giorgioditizio.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://giorgioditizio.github.io/</loc>
+    <loc>https://giorgioditizio.github.io/publications/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://giorgioditizio.github.io/resume/resume/</loc>
+  </url>
+  
+  <url>
+    <loc>https://giorgioditizio.github.io/resume/</loc>
     <priority>0</priority>
   </url>
   

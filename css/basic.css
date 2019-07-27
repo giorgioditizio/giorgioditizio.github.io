@@ -49,3 +49,8 @@ hr {
     padding: 0;
     text-align: center;
 }
+
+/* unvisited link */
+a {
+  text-decoration: underline;
+}
