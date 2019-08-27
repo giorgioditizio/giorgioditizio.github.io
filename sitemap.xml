@@ -17,18 +17,20 @@
   </url>
   
   <url>
-    <loc>https://giorgioditizio.github.io/contact/</loc>
+    <loc>https://giorgioditizio.github.io/teaching/teaching/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://giorgioditizio.github.io/contact/</loc>
   </url>
   
   <url>
     <loc>https://giorgioditizio.github.io/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://giorgioditizio.github.io/publications/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -37,12 +39,14 @@
   
   <url>
     <loc>https://giorgioditizio.github.io/resume/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://giorgioditizio.github.io/tags/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://giorgioditizio.github.io/teaching/</loc>
   </url>
   
 </urlset>
