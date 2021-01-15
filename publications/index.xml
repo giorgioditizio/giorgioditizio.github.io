@@ -5,10 +5,6 @@
     <link>https://giorgioditizio.github.io/publications/</link>
     <description>Recent content in Publications and Services on Giorgio Di Tizio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://giorgioditizio.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://giorgioditizio.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
