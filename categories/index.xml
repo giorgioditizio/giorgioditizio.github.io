@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Giorgio Di Tizio</title>
+    <link>https://giorgioditizio.github.io/categories/</link>
+      <atom:link href="https://giorgioditizio.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://giorgioditizio.github.io/media/icon_hu219223b700f7205a72cddb2e2b749fdf_70_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://giorgioditizio.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

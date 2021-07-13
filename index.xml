@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giorgio Di Tizio</title>
+    <link>https://giorgioditizio.github.io/</link>
+      <atom:link href="https://giorgioditizio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giorgio Di Tizio</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://giorgioditizio.github.io/media/icon_hu219223b700f7205a72cddb2e2b749fdf_70_512x512_fill_lanczos_center_2.png</url>
+      <title>Giorgio Di Tizio</title>
+      <link>https://giorgioditizio.github.io/</link>
+    </image>
+    
+    <item>
+      <title>A Calculus of Tracking: Theory and Practice</title>
+      <link></link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Experimental Approach for Estimating Cyber Risk: a Proposal Building upon Cyber Ranges and Capture the Flags</title>
+      <link></link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are You a Favorite Target For Cryptojacking? A Case-Control Study On The Cryptojacking Ecosystem</title>
+      <link></link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
