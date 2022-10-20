@@ -5,12 +5,20 @@
     <link>https://giorgioditizio.github.io/</link>
       <atom:link href="https://giorgioditizio.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Giorgio Di Tizio</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://giorgioditizio.github.io/media/icon_hu219223b700f7205a72cddb2e2b749fdf_70_512x512_fill_lanczos_center_3.png</url>
       <title>Giorgio Di Tizio</title>
       <link>https://giorgioditizio.github.io/</link>
     </image>
+    
+    <item>
+      <title>Pareto-Optimal Defenses for the Web Infrastructure: Theory and Practice</title>
+      <link></link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Software Updates Strategies: a Quantitative Evaluation against Advanced Persistent Threats</title>
